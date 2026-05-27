@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://base44.com/api/:path*"
+      "destination": "https://lfzsjrzsykokkwdlwir.supabase.co/:path*"
     },
     {
       "source": "/(.*)",
